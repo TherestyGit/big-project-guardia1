@@ -1,0 +1,16 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Bree Serif', serif!important;
+    background-image: url(../img/background.jpg);
+    background-repeat: space repeat;
+    color : white;
+}
+
+.test {
+    display: flex!important;
+    justify-content: center!important;
+}
+/* Path: css\style.css */
