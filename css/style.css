@@ -4,13 +4,152 @@ html{
 
 body{
     font-family: 'Bree Serif', serif!important;
-    background-image: url(../img/background.jpg);
-    background-repeat: space repeat;
-    color : white;
 }
 
-.test {
-    display: flex!important;
-    justify-content: center!important;
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
 }
-/* Path: css\style.css */
+
+
+/* Nav - CSS */
+
+button{
+    background-color: black!important;
+}
+.btn{
+    border-radius: 25px;
+    background-color: #d6be91!important;
+    color: black!important;
+}
+
+.dropdown-content li > a{
+    background-color: #d6be91!important;
+    color: black!important;
+    font-size: small!important;
+    text-align: center!important;
+}
+
+
+.guardia_logo img{
+    margin-top: 3%;
+    height: 25%;
+    width: 25%;
+}
+
+.card{
+    border-radius: 20px!important;
+    box-shadow: 10px 10px 10px #d7b16a!important;
+}
+
+.card img {
+    border-radius: 20px!important;
+    border-bottom-left-radius: 0px!important;
+    border-bottom-right-radius: 0px!important;
+}
+
+.zoom-image{
+    overflow:hidden;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.zoom-image img{
+    width:100%;height:auto;
+}
+
+.zoom-image img:hover{
+    width:100%;
+    -webkit-transform:scale(1.05);
+    transform:scale(1.05);
+    -webkit-transition:1s ease-in-out;
+    transition:1s ease-in-out;
+}
+
+.add-linkedin{
+    background-color: #d8b36e!important;
+    color:white;
+}
+
+.sidenav{
+    background-color: #d6be91!important;
+}
+
+/* Parallax */
+
+.image-top{
+  background-size: cover!important;
+  height: 100%!important;
+  min-height: 100%!important;
+}
+
+
+/* FOOTER */
+
+a{
+    text-decoration: none;
+}
+
+footer{
+    background-color: #272727;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 12px;
+    margin-top: auto;
+}
+
+footer li{
+    list-style: none;
+    margin: 10px;
+    display: inline-block;
+}
+
+.icons a{
+    background: #d6be91;
+    color: #272727;
+    padding: 14px;
+    font-size: 20px;
+    border-radius: 100%;
+    display: flex;
+}
+.icons a:hover{
+    color: #ffffff;
+    transition: 0.5s;
+}
+
+.menu a{
+    color: #ffffff;
+    text-transform: capitalize;
+}
+.menu a:hover{
+    color: #52527a;
+    transition: 0.5s;
+}
+
+.footer-copyright{
+    background-color:black;
+    color: #ffffff;
+    padding: 15px;
+    margin-top: 30px;
+    text-transform: capitalize;
+}
+
+.footer-copyright p{
+    margin-bottom: 0px;
+}
+
+.footer_title{
+    color: white;
+    font-size: medium!important
+}
+
+/* Page présentation */
+
+.imgcv{
+    width: 135%;
+    height: auto;
+}
