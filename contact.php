@@ -3,9 +3,9 @@
 
 <head>
     <!-- Title-Description | Charset-->
-    <title>Projet 5 : Portfolio</title>
+    <title>Alix WILMART</title>
     <meta charset="utf-8">
-    <meta name="description" content="PortFolio : Projet 5">
+    <meta name="description" content="PortFolio : Alix WILMART">
     <link rel="shortcut icon" href="guardia.ico">
     <!-- Import Google Icon Font -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

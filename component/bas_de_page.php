@@ -32,11 +32,12 @@
   </ul>
 
   <div class="footer-copyright">
-    <p>Big-Project for Guardia: Cybersecurity School by Theresty</p>
+    <p>Big-Project for Guardia Cybersecurity School by Theresty</p>
   </div>
 </footer>
 
 <!-- JavaScript at end of body for optimized loading -->
+<script src="https://unpkg.com/typed.js@2.0.15/dist/typed.umd.js"></script>
 <script src="js/jquery.min.js"></script>
 <script src="js/materialize.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"

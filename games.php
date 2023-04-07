@@ -3,9 +3,9 @@
 
 <head>
     <!-- Title-Description | Charset-->
-    <title>Projet 5 : Portfolio</title>
+    <title>Alix WILMART</title>
     <meta charset="utf-8">
-    <meta name="description" content="PortFolio : Projet 5">
+    <meta name="description" content="PortFolio : Alix WILMART">
     <link rel="shortcut icon" href="guardia.ico">
     <!-- Import Google Icon Font -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -31,7 +31,7 @@
 <?php require 'component/navbar.php'; ?>
 
 <h1>Une envie de jouer t'en fais pas ça arrive ;)</h1>
-<h2>Un petit CTF bonus en plus sera sur cette page... 🇩🇪 :-=) 🙋‍♂️ | 49.3 🇫🇷 soon</h2>
+<h2>Un petit CTF bonus en plus sera sur cette page...49.3 soon</h2>
 
 <!-- Modal Structure : Contactez-nous ? + Footer -->
 

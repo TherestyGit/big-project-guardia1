@@ -3,9 +3,9 @@
 
 <head>
   <!-- Title-Description | Charset-->
-  <title>Projet 5 : Portfolio</title>
+  <title>Alix WILMART</title>
   <meta charset="utf-8">
-  <meta name="description" content="PortFolio : Projet 5">
+  <meta name="description" content="PortFolio : Alix WILMART">
   <link rel="shortcut icon" href="guardia.ico">
   <!-- Import Google Icon Font -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -38,8 +38,14 @@
   </div>
 
   <div class="container">
-  <h1 class="center">Bienvenue mon reuf :)</h1>
+    <div class="row">
+      <div class="col s12 l4 offset-l1>
+        <h1 class="left">Bienvenue sur mon Portfolio</h1><br>
+        <p class="left">Je suis <span id="typed-header"></span></p>
+      </div>
+    </div>
   </div>
+
 
   <!-- Modal Structure : Contactez-nous ? + Footer -->
   

@@ -21,9 +21,9 @@ $data = $pre->fetch(PDO::FETCH_ASSOC);
 
   <head>
     <!-- Title-Description | Charset-->
-    <title><?php echo ($data['title'])?></title>
+    <title>Alix WILMART</title>
     <meta charset="utf-8">
-    <meta name="description" content="PortFolio : Projet 5">
+    <meta name="description" content="PortFolio : Alix WILMART">
     <link rel="shortcut icon" href="js/guardia.ico">
     <!-- Import Google Icon Font -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

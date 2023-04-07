@@ -7,12 +7,17 @@ body{
 }
 
 
-.material-symbols-outlined {
-  font-variation-settings:
-  'FILL' 1,
-  'wght' 400,
-  'GRAD' 0,
-  'opsz' 48
+/* Scrollbar */
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #272727;
+}
+::-webkit-scrollbar-thumb {
+    background: #d6be91;
+    border-radius: 10px;
 }
 
 
@@ -42,6 +47,7 @@ button{
 }
 
 .card{
+    background: whitesmoke!important;
     border-radius: 20px!important;
     box-shadow: 10px 10px 10px #d7b16a!important;
 }

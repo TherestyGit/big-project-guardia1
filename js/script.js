@@ -2,12 +2,15 @@ $(document).ready(function(){
   $('.sidenav').sidenav();
   $('.parallax').parallax();
   $(".dropdown-trigger").dropdown({ hover: true, coverTrigger: false});
-  $('.carousel.carousel-slider').carousel({
-    fullWidth: true,
-    indicators: true
-  });
-  $('.modal').modal();
 });
 
 new WOW().init();
 
+var typed = new Typed('#typed-header', {
+  strings: ["Web developpeur.", "Administateur Réseau.", "Architecte Réseaux.", "Alix WILMART."],
+  typeSpeed: 50,
+  backSpeed: 50,
+  startDelay: 1000,
+  backDelay: 2000,
+  loop: true
+});

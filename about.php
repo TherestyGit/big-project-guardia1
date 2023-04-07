@@ -3,9 +3,9 @@
 
 <head>
     <!-- Title-Description | Charset-->
-    <title>Projet 5 : Portfolio</title>
+    <title>Alix WILMART</title>
     <meta charset="utf-8">
-    <meta name="description" content="PortFolio : Projet 5">
+    <meta name="description" content="PortFolio : Alix WILMART">
     <link rel="shortcut icon" href="guardia.ico">
     <!-- Import Google Icon Font -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -40,7 +40,7 @@
 <!-- Présentation de l'équipe + Card -->
 <div class="section bas-de-page">
     <div class="container">
-        <h1 class="header center">Alix WILMART</h1>
+        <h1 class="header center animate__animated  animate__fadeInUp wow">Alix WILMART</h1>
         <div class="row ">
             <div class="col s12 l4 offset-l1 animate__animated animate__backInLeft wow">
                 <div class="card">
@@ -54,8 +54,8 @@
                             <ion-icon name="logo-linkedin"></ion-icon>add</a>
                         <a href="https://www.github.com/TherestyGit" target="_blank" class="black-text">
                             <ion-icon name="logo-github"></ion-icon>Check It<br><br></a>
-                        <p>Elève de 1ère année à Guardia: Cybersecurity School. <br> Diplômes Obtenus : <br> - Brevet des Collèges
-                            <br> - Baccalauréat STI2D-EE <br><br> Vous pouvez cliquer sur le CV si vous souhaitez le télécharger.</p><br>
+                        <p>Elève de 1ère année à Guardia Cybersecurity School. <br> Diplômes Obtenus : <br> - Brevet des Collèges
+                            <br> - Baccalauréat STI2D-EE <br><br>Pour plus d'infos :<br> Vous pouvez cliquer sur le CV pour le télécharger.</p><br>
                         <a>
                             <script src="https://tryhackme.com/badge/733206"></script>
                         </a>
