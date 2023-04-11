@@ -93,6 +93,48 @@ button{
   min-height: 100%!important;
 }
 
+/* Home */
+
+.img-home{
+    width: 100%;
+    height: auto;
+}
+.row{
+    margin-top: 20px;
+}
+
+.title-home{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+    text-transform: uppercase;
+    margin-bottom: 0px!important;
+}
+
+.text-home{
+    font-size: 30px;
+    text-align: left;
+    margin-top: 0px!important;
+
+}
+.text-home span{
+    color: #ab966a;
+}
+
+.home-content{
+    width: 40% !important;
+}
+
+.parallax-home{
+    height: 325px!important;
+}
+
+/* Page présentation */
+
+.imgcv{
+    width: 130%;
+    height: auto;
+}
 
 /* FOOTER */
 
@@ -153,9 +195,4 @@ footer li{
     font-size: medium!important
 }
 
-/* Page présentation */
 
-.imgcv{
-    width: 135%;
-    height: auto;
-}

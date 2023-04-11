@@ -31,7 +31,7 @@
 <?php require 'component/navbar.php'; ?>
 
 <!-- Parallax -->
-<div class="parallax-container">
+<div class="parallax-container parallax-home">
     <div class="parallax image-top">
         <img class="image-responsive" src="img/header.webp" alt="Image Parallax">
     </div>

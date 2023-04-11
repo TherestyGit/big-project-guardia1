@@ -31,7 +31,7 @@
   <?php require 'component/navbar.php'; ?>
 
   <!-- Parallax -->
-  <div class="parallax-container">
+  <div class="parallax-container parallax-home">
     <div class="parallax image-top">
       <img class="image-responsive" src="img/bg2.webp" alt="Image Parallax">
     </div>
@@ -39,9 +39,15 @@
 
   <div class="container">
     <div class="row">
-      <div class="col s12 l4 offset-l1>
-        <h1 class="left">Bienvenue sur mon Portfolio</h1><br>
-        <p class="left">Je suis <span id="typed-header"></span></p>
+      <div class="col s12 l4 offset-l1 home-content">
+          <h1 class="title-home">Bonjour, mon nom est Alix WILMART !</h1><br>
+          <p class="text-home">Je suis <span id="typed-header"></span></p>
+          <p>Sur mon portfolio vous pourrez trouver :<br>- Une brève présentation de moi<br>- Des projets que j'ai eu l'occasion de faire<br>- Des jeux que j'ai développés<br>- Une page où vous pouvez me laisser un avis ou encore un message</p>
+          <p>Si vous trouvez le moindre bug, vulnérabilité, faute de frappe ou d'orthographe, Merci de m'envoyer un message pour que cela puisse être corrigé au plus vite</p>
+          <p>Bonne Visite à vous sur mon Portfolio :)</p>
+      </div>
+      <div class="col s12 l4 offset-l1">
+          <img class="img-home" src="img/alix_guardia.png" alt="Photo de Alix à une soutenance de Guardia">
       </div>
     </div>
   </div>
