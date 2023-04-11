@@ -1,4 +1,4 @@
-/*!
+    /*!
  * Materialize v1.0.0 (http://materializecss.com)
  * Copyright 2014-2017 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
@@ -6005,7 +6005,7 @@
     cursor: text;
   }
   
-  .chips .input {
+  .chips .input-contact {
     background: none;
     border: 0;
     color: rgba(0, 0, 0, 0.6);
@@ -6019,7 +6019,7 @@
     width: 120px !important;
   }
   
-  .chips .input:focus {
+  .chips .input-contact:focus {
     border: 0 !important;
     -webkit-box-shadow: none !important;
             box-shadow: none !important;
@@ -6225,9 +6225,9 @@
   input[type=number]:not(.browser-default):focus:not([readonly]),
   input[type=search]:not(.browser-default):focus:not([readonly]),
   textarea.materialize-textarea:focus:not([readonly]) {
-    border-bottom: 1px solid #26a69a;
-    -webkit-box-shadow: 0 1px 0 0 #26a69a;
-            box-shadow: 0 1px 0 0 #26a69a;
+    border-bottom: 1px solid #d6be91;
+    -webkit-box-shadow: 0 1px 0 0 #d6be91;
+            box-shadow: 0 1px 0 0 #d6be91;
   }
   
   input:not([type]):focus:not([readonly]) + label,
@@ -6243,7 +6243,7 @@
   input[type=number]:not(.browser-default):focus:not([readonly]) + label,
   input[type=search]:not(.browser-default):focus:not([readonly]) + label,
   textarea.materialize-textarea:focus:not([readonly]) + label {
-    color: #26a69a;
+    color: #d6be91;
   }
   
   input:not([type]):focus.valid ~ label,

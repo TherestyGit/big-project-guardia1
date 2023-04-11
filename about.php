@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="fr">
 
+
 <head>
     <!-- Title-Description | Charset-->
     <title>Alix WILMART</title>
     <meta charset="utf-8">
     <meta name="description" content="PortFolio : Alix WILMART">
-    <link rel="shortcut icon" href="guardia.ico">
+    <link rel="shortcut icon" href="AW-logo.ico">
     <!-- Import Google Icon Font -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
@@ -40,7 +41,7 @@
 <!-- Présentation de l'équipe + Card -->
 <div class="section bas-de-page">
     <div class="container">
-        <h1 class="header center animate__animated  animate__fadeInUp wow">Alix WILMART</h1>
+        <h1 class="header center animate__animated  animate__fadeInUp">Alix WILMART</h1>
         <div class="row ">
             <div class="col s12 l4 offset-l1 animate__animated animate__backInLeft wow">
                 <div class="card">

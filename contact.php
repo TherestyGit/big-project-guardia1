@@ -6,7 +6,7 @@
     <title>Alix WILMART</title>
     <meta charset="utf-8">
     <meta name="description" content="PortFolio : Alix WILMART">
-    <link rel="shortcut icon" href="guardia.ico">
+    <link rel="shortcut icon" href="AW-logo.ico">
     <!-- Import Google Icon Font -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
@@ -30,9 +30,24 @@
 
 <?php require 'component/navbar.php'; ?>
 
-<h1>Tu voulais me contacter bah t'attendra sagement ici d'accord ? :)</h1>
+<div class="parallax-container parallax-home">
+    <div class="parallax header_background_home_page"><img src="img/black_geometric.jpg" alt="background_main"></div>
+    <h1 class="align-wrapper white-text contact-title">
+        LAISSEZ UN AVIS</h1>
+    <hr>
+</div>
 
-<!-- Modal Structure : Contactez-nous ? + Footer -->
+<form id="form" class="form-contact">
+
+    <input id="name" type="text" placeholder="Nom" class="input-contact">
+    <input id="email" type="text" placeholder="E-mail" class="input-contact">
+    <textarea class="input-contact materialize-textarea" id="message" type="text" placeholder="Entrez votre message..."></textarea>
+    <button class="waves-effect waves-light btn button-send-contact" id="submit" type="submit"> Envoyer</button>
+
+
+</form>
+
+<!--Footer -->
 
 <?php require 'component/bas_de_page.php' ?>
 

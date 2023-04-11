@@ -6,7 +6,7 @@
   <title>Alix WILMART</title>
   <meta charset="utf-8">
   <meta name="description" content="PortFolio : Alix WILMART">
-  <link rel="shortcut icon" href="guardia.ico">
+  <link rel="shortcut icon" href="AW-logo.ico">
   <!-- Import Google Icon Font -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
@@ -43,7 +43,7 @@
           <h1 class="title-home">Bonjour, mon nom est Alix WILMART !</h1><br>
           <p class="text-home">Je suis <span id="typed-header"></span></p>
           <p>Sur mon portfolio vous pourrez trouver :<br>- Une brève présentation de moi<br>- Des projets que j'ai eu l'occasion de faire<br>- Des jeux que j'ai développés<br>- Une page où vous pouvez me laisser un avis ou encore un message</p>
-          <p>Si vous trouvez le moindre bug, vulnérabilité, faute de frappe ou d'orthographe, Merci de m'envoyer un message pour que cela puisse être corrigé au plus vite</p>
+          <p>Si vous trouvez le moindre bug, vulnérabilité, faute de frappe ou d'orthographe.<br> Merci de m'envoyer un message pour que cela puisse être corrigé au plus vite</p>
           <p>Bonne Visite à vous sur mon Portfolio :)</p>
       </div>
       <div class="col s12 l4 offset-l1">

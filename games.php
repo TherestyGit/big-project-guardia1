@@ -6,7 +6,7 @@
     <title>Alix WILMART</title>
     <meta charset="utf-8">
     <meta name="description" content="PortFolio : Alix WILMART">
-    <link rel="shortcut icon" href="guardia.ico">
+    <link rel="shortcut icon" href="AW-logo.ico">
     <!-- Import Google Icon Font -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
@@ -30,8 +30,21 @@
 
 <?php require 'component/navbar.php'; ?>
 
-<h1>Une envie de jouer t'en fais pas ça arrive ;)</h1>
-<h2>Un petit CTF bonus en plus sera sur cette page...49.3 soon</h2>
+<div class="parallax-container parallax-home">
+    <div class="parallax image-top">
+        <img class="image-responsive" src="img/gamepage.png" alt="Image Parallax">
+    </div>
+</div>
+
+<a class="titlegame-a" href="ctf.php"><h1 class="center title-game">Une envie de jouer ?</h1></a>
+<div class="container">
+    <div class="row">
+        <h2 class="col s12 l4 offset-l1"> ... en Python</h2>
+        <h3 class="col s12 l4 offset-l3"> ... en C</h3>
+    </div>
+</div>
+
+
 
 <!-- Modal Structure : Contactez-nous ? + Footer -->
 

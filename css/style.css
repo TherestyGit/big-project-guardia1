@@ -195,4 +195,59 @@ footer li{
     font-size: medium!important
 }
 
+/* Page Contact */
 
+.form-contact{
+    width: 80%;
+    height: auto;
+    background-color: #272727;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 200px!important;
+    margin: 20px;
+    color: white;
+}
+
+.input-contact{
+    color: white;
+}
+
+.contact-title{
+    position: relative !important;
+    font-weight: 200 !important;
+    font-size: 4.2rem !important;
+    text-align: center !important;
+    padding: 3% !important;
+    text-shadow: 3px 3px 5px #bdbdbd  !important;
+}
+
+hr{
+    width: 500px!important;
+}
+
+
+/* Page CTF */
+
+.ctf{
+    padding: 200px;
+}
+
+/* Page Jeux */
+
+.title-game{
+    text-transform: uppercase!important;
+    font-size: 60px!important;
+}
+
+.ctf-button{
+    align-items: center!important;
+    justify-content: center!important;
+    background-color: #d6be91!important;
+    color: black!important;
+    border-radius: 25px!important;
+    font-weight: bold!important;
+}
+
+.titlegame-a{
+    color: black!important;
+}

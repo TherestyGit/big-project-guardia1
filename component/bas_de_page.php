@@ -1,16 +1,13 @@
 
 <!-- Footer -->
 <footer>
-  <h2 class="center animate__animated animate__fadeInDown wow footer_title">Retrouvez les réseaux de l'école : Guardia Cybersecurity School </h2>
+  <h2 class="center animate__animated animate__fadeInDown wow footer_title">Retrouvez-moi sur mes différents réseaux </h2>
   <ul class="icons">
-    <li><a href="https://www.linkedin.com/company/guardia-cybersecurity-school" target="_blank">
+    <li><a href="https://www.linkedin.com/in/alix-wilmart-9aab84251/" target="_blank">
         <ion-icon name="logo-linkedin"></ion-icon>
       </a></li>
-    <li><a href="https://www.facebook.com/guardiaschool/" target="_blank">
-        <ion-icon name="logo-facebook"></ion-icon>
-      </a></li>
-    <li><a href="https://www.instagram.com/guardia_school/" target="_blank">
-        <ion-icon name="logo-instagram"></ion-icon>
+    <li><a href="https://www.github.com/TherestyGit" target="_blank">
+        <ion-icon name="logo-github"></ion-icon>
       </a></li>
   </ul>
   <ul class="menu">

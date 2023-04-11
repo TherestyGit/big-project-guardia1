@@ -24,7 +24,7 @@ $data = $pre->fetch(PDO::FETCH_ASSOC);
     <title>Alix WILMART</title>
     <meta charset="utf-8">
     <meta name="description" content="PortFolio : Alix WILMART">
-    <link rel="shortcut icon" href="js/guardia.ico">
+    <link rel="shortcut icon" href="AW-logo.ico">
     <!-- Import Google Icon Font -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!-- Import materialize.css -->
