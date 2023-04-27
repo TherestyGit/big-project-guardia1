@@ -25,7 +25,7 @@
       </li>
     <?php } ?>
     <li><a href="games.php">Jeux</a></li>
-    <li><a href="contact.php">Contact</a></li>
+    <li><a href="contact.php">Livre d'Or</a></li>
   </ul>
 
   <div class="footer-copyright">

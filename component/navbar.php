@@ -12,7 +12,7 @@
           <li><a href="about.php">Présentation</a></li>
           <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">Projets<i class="material-icons right">arrow_drop_down</i></a></li>
           <li><a href="games.php">Jeux</a></li>
-          <li><a href="contact.php"><button class="waves-effect waves-light btn">Contact</button></a></li>
+          <li><a href="contact.php"><button class="waves-effect waves-light btn">Livre d'Or</button></a></li>
         </ul>
       </div>
     </div>
@@ -35,7 +35,7 @@
       <?php } ?>
     </ul>
     <li><a href="games.php">Jeux</a></li>
-    <li><a href="contact.php"><button class="waves-effect waves-light btn">Contact</button></a></li>
+    <li><a href="contact.php"><button class="waves-effect waves-light btn">Livre d'Or</button></a></li>
   </ul>
 
 <!-- MENU + SideNAV + dropdown -->
