@@ -136,6 +136,12 @@ button{
     height: auto;
 }
 
+@media only screen and (max-width: 1024px) {
+    .imgcv {
+        width: 100%;
+    }
+}
+
 /* FOOTER */
 
 a{

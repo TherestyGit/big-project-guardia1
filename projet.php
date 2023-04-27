@@ -1,5 +1,5 @@
 <?php require "cfg/config.php";
-
+global $pdo;
 if (isset($_GET['id'])) {
   $id = $_GET['id'];
 } else {
@@ -94,6 +94,7 @@ $data = $pre->fetch(PDO::FETCH_ASSOC);
         </div>
       </div>
     </div>
+  </div>
   </div>
 
   <!-- Modal Structure : Contactez-nous ? + Footer + Script -->
