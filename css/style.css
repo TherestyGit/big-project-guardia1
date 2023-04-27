@@ -125,6 +125,12 @@ button{
     width: 40% !important;
 }
 
+@media only screen and (max-width: 1024px) {
+    .home-content {
+        width: auto!important;
+    }
+}
+
 .parallax-home{
     height: 325px!important;
 }
