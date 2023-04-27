@@ -51,7 +51,7 @@
     </div>
 </div>
 
-<a class="titlegame-a" href="ctf.php"><h1 class="center title-game">Casse brique ou CTF ?</h1></a>
+<a class="titlegame-a" href="ctf.html"><h1 class="center title-game">Casse brique ou CTF ?</h1></a>
 <div class="container">
     <div class="row">
         <table width="100%">
