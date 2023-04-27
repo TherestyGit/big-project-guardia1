@@ -99,6 +99,12 @@ button{
     width: 100%;
     height: auto;
 }
+
+@media only screen and (max-width: 1024px) {
+    .img-home {
+        width: auto!important;
+    }
+}
 .row{
     margin-top: 20px;
 }
