@@ -7,7 +7,7 @@ $(document).ready(function(){
 new WOW().init();
 
 var typed = new Typed('#typed-header', {
-  strings: ["Web developpeur.", "Administateur Réseau.", "Architecte Réseau.", "Moi-Même."],
+  strings: ["Web developpeur.", "Administrateur Réseau.", "Architecte Réseau.", "Moi-Même."],
   typeSpeed: 50,
   backSpeed: 50,
   startDelay: 1000,
